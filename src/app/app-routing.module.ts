@@ -4,8 +4,7 @@ import { AppComponent } from './app.component';
 import { HeaderComponent } from './header/header.component';
 
 const routes: Routes = [
-  {path:'aula4', component:AppComponent},
-  {path:'aula20', component:HeaderComponent}
+
 ];
 
 @NgModule({
